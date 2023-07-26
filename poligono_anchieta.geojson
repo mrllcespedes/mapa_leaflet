@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "poligono_anchieta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Poligono Anchieta", "LAYER": "Unknown Area Type", "PERIMETER": "19.997 km", "ENCLOSED_A": "25452680 sq m" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -45.09206, -23.52048 ], [ -45.09206, -23.52048 ], [ -45.03706, -23.52048 ], [ -45.03706, -23.54548 ], [ -45.06705, -23.56715 ], [ -45.09206, -23.56715 ], [ -45.09206, -23.52048 ] ] ] ] } }
+]
+}

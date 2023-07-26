@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "multi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 2, "LONG": -45.07, "LAT": -23.532, "LONG_GSM": "-45°4′12″", "LAT_GSM": "-23°31′55″", "ID2": "AQ13", "lat2": -23.53173, "lon2": -45.07006 }, "geometry": { "type": "Point", "coordinates": [ -45.07006, -23.53173 ] } },
+{ "type": "Feature", "properties": { "ID": 3, "LONG": -45.041, "LAT": -23.527, "LONG_GSM": "-45°2′28″", "LAT_GSM": "-23°31′37″", "ID2": "BM13", "lat2": -23.52727, "lon2": -45.0406 }, "geometry": { "type": "Point", "coordinates": [ -45.0406, -23.52727 ] } },
+{ "type": "Feature", "properties": { "ID": 4, "LONG": -45.055, "LAT": -23.554, "LONG_GSM": "-45°3′18″", "LAT_GSM": "-23°33′14″", "ID2": "CS13", "lat2": -23.55442, "lon2": -45.05535 }, "geometry": { "type": "Point", "coordinates": [ -45.05535, -23.55442 ] } },
+{ "type": "Feature", "properties": { "ID": 5, "LONG": -45.085, "LAT": -23.563, "LONG_GSM": "-45°5′6″", "LAT_GSM": "-23°33′47″", "ID2": "DM13", "lat2": -23.5634, "lon2": -45.08476 }, "geometry": { "type": "Point", "coordinates": [ -45.08476, -23.5634 ] } },
+{ "type": "Feature", "properties": { "ID": 1, "LONG": -45.085, "LAT": -23.532, "LONG_GSM": "-45°5′6″", "LAT_GSM": "-23°31′55″", "ID2": "AN13", "lat2": -23.53173, "lon2": -45.08476 }, "geometry": { "type": "Point", "coordinates": [ -45.08476, -23.53173 ] } }
+]
+}
